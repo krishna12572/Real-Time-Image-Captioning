@@ -1,0 +1,15 @@
+image-captioning-app/
+├─ backend/
+│  ├─ app.py
+│  ├─ requirements.txt
+│  └─ captions.txt      # auto-generated when running
+├─ frontend/
+│  ├─ package.json
+│  ├─ public/
+│  │  └─ index.html
+│  └─ src/
+│     ├─ App.js
+│     ├─ index.js
+│     └─ index.css
+├─ .gitignore
+└─ README.md
