@@ -23,3 +23,17 @@ source venv/bin/activate   # Mac/Linux
 venv\Scripts\activate      # Windows
 pip install -r requirements.txt
 uvicorn app:app --reload
+
+Frontend
+cd frontend
+npm install
+npm start
+
+###How to Use
+```bash
+
+1.Open frontend in browser
+
+2.Upload an image
+
+3.Get the generated caption instantly
