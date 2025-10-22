@@ -67,41 +67,38 @@ AI-VisionLanguage-Project/
 - Proof-of-Concept (PoC) iterations  
 - Continuous Optimization and Testing  
 
----
-
 ## 🧪 How to Run
 
-1️⃣ **Clone the repository**
+### 1️⃣ Clone the repository
 ```bash
 git clone https://github.com/your-username/AI-VisionLanguage-Project.git
 cd AI-VisionLanguage-Project
-2️⃣ Install dependencies
+```
 
-bash
-
+### 2️⃣ Install dependencies
+```bash
 pip install -r backend/requirements.txt
-3️⃣ Run the backend
+```
 
-bash
-
+### 3️⃣ Run the backend
+```bash
 python backend/app.py
-4️⃣ (Optional) Run frontend (if Streamlit or React is used)
+```
 
-bash
-コードをコピーする
+### 4️⃣ (Optional) Run frontend (if Streamlit or React is used)
+```bash
 streamlit run frontend/app.py
-or
-
-bash
-
+# or
 npm start
-🧭 Roadmap
- Add image captioning demo
+```
 
- Deploy on AWS Lambda
+---
 
- Integrate multilingual NLP model
-
- Add visualization dashboard
+## 🧭 Roadmap
+- [ ] Add image captioning demo  
+- [ ] Deploy on AWS Lambda  
+- [ ] Integrate multilingual NLP model  
+- [ ] Add visualization dashboard
+---
 
 
